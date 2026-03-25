@@ -112,8 +112,8 @@ How to Run the Project
 
 Step 1: Clone the Repository
 
-git clone 
-cd customer-segmentation-unsupervised
+git clone https://github.com/Aishwarya26953/customer-segmentation-unsupervised-M_A_Aishwarya.git
+cd customer-segmentation-unsupervised-M_A_Aishwarya
 
 Step 2: Install Dependencies
 
