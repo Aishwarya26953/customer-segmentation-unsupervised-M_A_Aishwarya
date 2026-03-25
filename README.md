@@ -20,7 +20,7 @@ This project addresses the problem by applying unsupervised machine learning tec
 
 Dataset Description
 
-* Dataset: E-commerce Behavior Dataset (Kaggle) - https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store?utm_source=chatgpt.com
+* Dataset: E-commerce Behavior Dataset (Kaggle) - https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store?utm_source
 * Records Used: 500,000+ (sampled from large dataset)
 * Type: Real-world customer interaction data
 
