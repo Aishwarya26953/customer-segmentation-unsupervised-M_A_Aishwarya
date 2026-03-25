@@ -218,4 +218,6 @@ Conclusion
 
 This project demonstrates how unsupervised learning can transform raw customer data into meaningful insights. It enables businesses to improve decision-making, optimize marketing strategies, and increase customer retention.
 
+Uploaded data file as zip because the large dataset
+
 
