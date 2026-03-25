@@ -150,7 +150,7 @@ Evaluation Metrics:
 
 Sample Visualizations 
 🔹 PCA Cluster Visualization
-    ![alt text](pca_clusters-1.png)
+    ![alt text](pca_clusters.png)
 
 🔹 Cluster Distribution
     ![alt text](kmeans_distribution.png)
