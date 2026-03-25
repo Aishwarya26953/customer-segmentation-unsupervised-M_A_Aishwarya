@@ -128,7 +128,6 @@ Step 3: Run the Project
 python main.py
 ```
 
-
 Key Results
 
 * Optimal number of clusters: 4
